@@ -41,5 +41,18 @@ p {
 }
 */
 
+/* styles for background-color picker */
+input{
+  margin: .4rem;
+  font-size: 1rem;
+}
 
+#bgColorPicker{
+  display: flex;
+  padding-bottom: 4%;
+  padding-left: 4%;
+}
 
+#colorInput{
+  font-weight:bold;
+}
